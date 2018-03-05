@@ -13,5 +13,10 @@
             "email": "mail@aoxiang.me"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "aoxSpider\\": "src/"
+        }
+    }
 }
