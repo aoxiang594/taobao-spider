@@ -6,7 +6,7 @@
         "rmccue/requests": "1.7",
         "sunra/php-simple-html-dom-parser": "^1.5"
     },
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "Aoxiang",
