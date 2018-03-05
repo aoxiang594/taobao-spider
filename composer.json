@@ -1,0 +1,17 @@
+{
+    "name": "aoxiang/taobao-spider",
+    "description": "taobao/tmall spider",
+    "type": "library",
+    "require": {
+        "rmccue/requests": "1.7",
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Aoxiang",
+            "email": "mail@aoxiang.me"
+        }
+    ],
+    "minimum-stability": "dev"
+}
